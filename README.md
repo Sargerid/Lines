@@ -1,3 +1,8 @@
+# PLAY "LINES" ON ITCH
+https://sargerid.itch.io/lines
+https://sargerid.itch.io/lines
+https://sargerid.itch.io/lines
+
 # CONTROL
 
 ## CLICK AND HOLD THE LEFT MOUSE BUTTON TO DRAW A LINE
@@ -16,8 +21,7 @@
 ## 3-TELEPORTS
 ## 4-COLORED SPHERES
 
-# PLAY "LINES" ON ITCH
-#https://sargerid.itch.io/lines
+
 
 
 
