@@ -1,5 +1,5 @@
 # PLAY "LINES" ON ITCH
-[(https://sheifscarlet.itch.io/lines)](https://sheifscarlet.itch.io/lines)
+[(https://sheifscarlet.itch.io/lines)]https://sheifscarlet.itch.io/lines
 
 # CONTROL
 
