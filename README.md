@@ -1,7 +1,5 @@
 # PLAY "LINES" ON ITCH
-https://sargerid.itch.io/lines
-https://sargerid.itch.io/lines
-https://sargerid.itch.io/lines
+[(https://sheifscarlet.itch.io/lines)](https://sheifscarlet.itch.io/lines)
 
 # CONTROL
 
